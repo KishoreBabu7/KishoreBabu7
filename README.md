@@ -1,4 +1,4 @@
-👋 Hello World! I'm [Your Name], a passionate Computer Science student on a journey to explore the vast realms of technology.
+👋 Hello World! I'm TULUGU KISHORE BABU, a passionate Computer Science student on a journey to explore the vast realms of technology.
 
 🚀 Currently diving into the world of algorithms, data structures, and software development.
 
