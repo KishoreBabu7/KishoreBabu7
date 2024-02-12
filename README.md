@@ -15,8 +15,6 @@ Web developer | Ai explorer | CS Student | Freelancer | Affiliate Marketer
                     </p>
                     
     
-              
-                 
   <p align="left">
                   <a href="https://www.facebook.com/kishorebabu07/" target="_blank" rel="noreferrer">
                 <picture>
