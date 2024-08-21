@@ -24,7 +24,7 @@ I'm **TULUGU KISHORE BABU**, a passionate Computer Science enthusiast who loves 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KishoreBabu7&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tulugu-Kishore-Babu&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KishoreBabu7&theme=radical" alt="GitHub Streak" />
 </div>
 
 ## 🌐 Connect with Me
