@@ -1,17 +1,45 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is TULUGU KISHORE BABU
-===========================================================================================================================================
+# 👋 Hey there, I'm [Tulugu Kishore Babu](https://github.com/Tulugu-Kishore-Babu)!
 
-Web developer | Ai explorer | CS Student | Freelancer | Affiliate Marketer
---------------------------------------------------------------------------
+## 🚀 About Me
+- 🌐 **Web Developer Intern @ Octanet**
+- 🎓 **5th Semester Software Technologies Student**
+- 💻 **Computer Science Enthusiast** | Passionate about **AI** and **IoT**
+- 🎯 **NCC Cadet** | Living the discipline and leadership
+- 💡 Always exploring new technologies and working on innovative projects
 
-*   🌍  I'm based in India
-*   🖥️  See my portfolio at [Portfolio showcase](http://kishore-babu-portfolio.onrender.com)
-*   ✉️  You can contact me at [tulugukishorebabu@gmail.com](mailto:tulugukishorebabu@gmail.com)
-*   🧠  I'm learning Artificial Intelligence Marketing
-*   🤝  I'm open to collaborating on AI related projects
-*   ⚡  Im very much intrested and passionate on coding and webdesigning with photo editing
-*   ### Skills 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
-                    </p>
-                  
+## 🛠 Tech Stack
+- **Frontend:** AngularJS, React.js, HTML, CSS, JavaScript
+- **Backend:** Spring Boot, Advanced Java, Servlets, JDBC
+- **Database:** MySQL, MongoDB, SQLite
+- **IoT:** Arduino, Ultrasonic Sensors, ANPR Camera Module, WiFi Module
+
+## 🏗 Projects
+- **🌐 [Parking Space Finder & E-parking Challan Generation System](https://github.com/Tulugu-Kishore-Babu/Parking-Space-Finder)** 
+  - Real-time tracking of parking spots
+  - IoT-based space detection
+  - Automated billing and UPI payments
+- **💻 [Network Traffic Anomaly Detector](https://github.com/Tulugu-Kishore-Babu/Network-Traffic-Anomaly-Detector)** 
+  - Capture and analyze network traffic
+  - Angular for visualization
+  - Advanced Java detection algorithms
+
+## 🎨 Design Philosophy
+- I believe in **clean**, **professional**, and **eye-catching** designs.
+- I work with carefully chosen color palettes to ensure that my projects not only function well but also look great.
+
+## ⚡ Fun Facts
+- I'm an **AI Explorer**—always curious about the next big thing in tech.
+- When I'm not coding, you'll find me honing my leadership skills with the NCC or exploring the latest tech trends.
+
+## 🌐 Connect with Me
+- **LinkedIn:** [Tulugu Kishore Babu](https://www.linkedin.com/in/tulugu-kishore-babu)
+- **Instagram:** [@kishore_babu](https://www.instagram.com/kishore_babu)
+- **Twitter:** [@kishore_babu](https://twitter.com/kishore_babu)
+
+## 📈 GitHub Stats
+![Tulugu Kishore Babu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tulugu-Kishore-Babu&show_icons=true&theme=radical)
+
+---
+
+"Everything comes at the right time. God is waiting or testing you to achieve your comforts."
+
