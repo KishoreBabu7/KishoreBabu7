@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hello, I'm <a href="https://github.com/Tulugu-Kishore-Babu">TULUGU KISHORE BABU</a></h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tulugu-Kishore-Babu&style=for-the-badge&color=brightgreen" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Tulugu-Kishore-Babu?label=Followers&style=for-the-badge&color=blue" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/Tulugu-Kishore-Babu?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=yellow" alt="GitHub stars" />
+  <img src="https://komarev.com/ghpvc/?username=KishoreBabu7&style=for-the-badge&color=brightgreen" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/KishoreBabu7?label=Followers&style=for-the-badge&color=blue" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/KishoreBabu7?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=yellow" alt="GitHub stars" />
 </p>
 
 <p align="center">
