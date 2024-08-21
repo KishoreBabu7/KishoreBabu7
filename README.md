@@ -1,12 +1,13 @@
 <h1 align="center">👋 Hello, I'm <a href="https://github.com/Tulugu-Kishore-Babu">TULUGU KISHORE BABU</a></h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tulugu-Kishore-Babu&style=flat-square&color=blue" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Tulugu-Kishore-Babu?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=Tulugu-Kishore-Babu&style=for-the-badge&color=brightgreen" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Tulugu-Kishore-Babu?label=Followers&style=for-the-badge&color=blue" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/Tulugu-Kishore-Babu?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=yellow" alt="GitHub stars" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Computer+Science+Enthusiast+💻;AI+%26+Prompt+Engineering+Explorer+🤖;NCC+Sergeant+🎖;Creative+Freelancer+🌟;Digital+Marketing+Strategist+📈;ICSE+%26+CBSE+Certified+Achiever+🏅" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF6347&center=true&vCenter=true&width=500&lines=Computer+Science+Enthusiast+💻;AI+%26+Prompt+Engineering+Explorer+🤖;NCC+Sergeant+🎖;Creative+Freelancer+🌟;Digital+Marketing+Strategist+📈;ICSE+%26+CBSE+Certified+Achiever+🏅" alt="Typing SVG">
 </p>
 
 ## 🚀 About Me
@@ -14,17 +15,28 @@
 I'm **TULUGU KISHORE BABU**, a passionate Computer Science enthusiast who loves to dive into AI exploration and Prompt Engineering. With a robust background in NCC, I carry the discipline and leadership skills into my work as an NCC Sergeant. As a creative freelancer and digital marketing strategist, I combine technical expertise with innovative thinking to deliver top-notch solutions.
 
 ### 💼 **Experience & Skills:**
-- **Languages:** C, Java, TypeScript, JavaScript
-- **Web Development:** HTML, CSS, Angular, React
-- **Backend:** Spring Boot, SQL, MongoDB, SQLite
-- **AI & Exploration:** AI Explorer, Prompt Engineering
-- **Leadership & Strategy:** NCC Sergeant, Digital Marketing
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+</p>
 
 ## 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KishoreBabu7&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KishoreBabu7&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KishoreBabu7&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ## 🌐 Connect with Me
