@@ -14,7 +14,7 @@
 
 I'm **TULUGU KISHORE BABU**, a passionate Computer Science enthusiast who loves to dive into AI exploration and Prompt Engineering. With a robust background in NCC, I carry the discipline and leadership skills into my work as an NCC Sergeant. As a creative freelancer and digital marketing strategist, I combine technical expertise with innovative thinking to deliver top-notch solutions.
 
-### 💼 **Experience & Skills:**
+<h2 align="center">🛠️ Skills & Technologies</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -30,6 +30,16 @@ I'm **TULUGU KISHORE BABU**, a passionate Computer Science enthusiast who loves 
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
+
+<h3 align="center">✨ Tools & Frameworks</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+</p>
+
 
 
 ## 📈 GitHub Stats
