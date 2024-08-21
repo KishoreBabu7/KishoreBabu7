@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF6347&center=true&vCenter=true&width=500&lines=Computer+Science+Enthusiast+💻;AI+%26+Prompt+Engineering+Explorer+🤖;NCC+Sergeant+🎖;Creative+Freelancer+🌟;Digital+Marketing+Strategist+📈;ICSE+%26+CBSE+Certified+Achiever+🏅" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF6347&center=true&vCenter=true&width=700&lines=Computer+Science+Enthusiast+💻;AI+%26+Prompt+Engineering+Explorer+🤖;NCC+Sergeant+🎖;Creative+Freelancer+🌟;Digital+Marketing+Strategist+📈;ICSE+%26+CBSE+Certified+Achiever+🏅" alt="Typing SVG">
 </p>
 
 ## 🚀 About Me
