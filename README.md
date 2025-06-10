@@ -62,7 +62,7 @@ I'm **TULUGU KISHORE BABU**, a passionate **Tech Visionary** with a deep focus o
 ## 🎭 Fun Facts
 
 - 🧠 **AI Enthusiast** – Unlocking the secrets of machine intelligence.
-- 🎖 **NCC Sergeant** – Strong leadership and unwavering discipline.
+- 🎖 **JUO at NCC** – Strong leadership and unwavering discipline.
 - 🚀 **Prompt Engineer** – Mastering AI communication.
 - 🌎 **Freelancer** – Designing the future, one project at a time.
 - 🔥 **Mantra** – "The future belongs to those who innovate today."
