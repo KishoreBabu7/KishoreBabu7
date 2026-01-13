@@ -1,5 +1,5 @@
 <h1 align="center" style="font-family: 'Orbitron', sans-serif; font-size: 3rem; color: #00FFFF; text-shadow: 0 0 12px #00FFFF;">
-🚀 Hello, I'm <a href="https://github.com/Tulugu-Kishore-Babu" style="color:#00FFFF; text-decoration:none;">TULUGU KISHORE BABU</a>
+🚀 Hello, I'm <a href="https://github.com/Tulugu-Kishore-Babu" style="color:#00FFFF; text-decoration:none;">KISHORE BABU TULUGU</a>
 </h1>
 
 <h3 align="center" style="color:#B0E0E6;">
